@@ -16,7 +16,7 @@
 - The following packages install Hard Disk Sentinel Linux version with a graphical user interface showing the status of the first hard disk/SSD (usually where Linux installed) in a window. The user interface also has a tray icon showing the actual temperature of the hard disk drive / SSD.
 
 ```
-  git clone https://github.com/sofijacom/HDSentinel_GUI.git
+git clone https://github.com/sofijacom/HDSentinel_GUI.git
 ```
 
 > [!NOTE]
