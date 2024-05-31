@@ -19,5 +19,5 @@ _Hard Disk Sentinel Linux GUI (Graphical User Interface)_
 git clone https://github.com/sofijacom/HDSentinel_GUI.git
 ```
 
-> [!NOTE]
+> _[!NOTE]_
 > Password: _the one you set for the user_  
