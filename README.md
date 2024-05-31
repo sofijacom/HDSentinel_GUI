@@ -18,4 +18,6 @@
 ```
   git clone https://github.com/sofijacom/HDSentinel_GUI.git
 ```
-- Password: the one you set for the user
+
+> [!NOTE]
+> Password: the one you set for the user  
